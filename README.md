@@ -8,7 +8,6 @@ This repo contains documents related to ROMA_LAPTOP_JH7110_RV-L1B including soft
 ## Directory Structure
 ```
 ├── Docs
-│   ├── README.md
 │   ├── Roma Camera.pdf
 │   ├── Roma Debian OS Installation.pdf
 │   ├── Roma Laptop Login Password.pdf
@@ -21,10 +20,8 @@ This repo contains documents related to ROMA_LAPTOP_JH7110_RV-L1B including soft
 │       ├── CH354_BB_V3_PCB.pdf
 │       ├── CH354_BB_V3_SCH.pdf
 │       ├── CH354_SUB_V1_PCB.pdf
-│       ├── CH354_SUB_V1_SCH.pdf
-│       └── README.md
+│       └── CH354_SUB_V1_SCH.pdf
 ├── README.md
 └── Specifications
-    ├── README.md
     └── ROMA SPECS 20230920.pdf
 ```
